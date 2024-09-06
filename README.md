@@ -1,6 +1,6 @@
-# **Phantom Chase**
+# **Veilbound**
 
-**Phantom Chase** is a stealth-action game where the player steps into the shoes of a **Spirit Hunter** whose mission is to track down and capture ethereal creatures known as **Phantoms**. The game revolves around using throwable **Spectral Orbs** to capture these mysterious beings while navigating a dynamic and ever-changing environment.
+**Veilbound** is a stealth-action game where the player steps into the shoes of a **Spirit Hunter** whose mission is to track down and capture ethereal creatures known as **Phantoms**. The game revolves around using throwable **Spectral Orbs** to capture these mysterious beings while navigating a dynamic and ever-changing environment.
 
 #### **Core Gameplay Loop:**
 1. **Explore the Environment**:
@@ -44,5 +44,5 @@
 
 ---
 
-In **Phantom Chase**, the constant cycle of **exploring**, **capturing Phantoms**, **absorbing their essence**, and **upgrading your abilities** drives the gameplay forward. The evolving challenges and adaptive environments ensure that each hunt feels unique, with players steadily growing in power and expertise as they capture increasingly elusive Phantoms.
+In **Veilbound**, the constant cycle of **exploring**, **capturing Phantoms**, **absorbing their essence**, and **upgrading your abilities** drives the gameplay forward. The evolving challenges and adaptive environments ensure that each hunt feels unique, with players steadily growing in power and expertise as they capture increasingly elusive Phantoms.
 
